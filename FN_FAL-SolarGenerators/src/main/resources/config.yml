@@ -1,0 +1,33 @@
+# Tick based power is multiplied by 2, The value here is in Seconds and will be converted in ticks in game. Ticks is slower than per seconds
+# This is a Custom Slimefun Addon by FN_FAL113 for BarangayCraft
+# Power settings for FN Solar Gen Tier I
+Tier1-power1: 512
+Buffer1: 0
+
+# Power settings for FN Solar Gen Tier III
+Tier2-power2: 1024
+Buffer2: 0
+
+# Power settings for FN Solar Gen Tier III
+Tier3-power3: 2048
+Buffer3: 0
+
+# Power settings for FN Solar Gen Tier IV
+Tier4-power4: 4096
+Buffer4: 0
+
+# Power settings for FN Solar Gen Tier V
+Tier5-power5: 6144
+Buffer5: 0
+
+# Power settings for FN Solar Gen Tier VI
+Tier6-power6: 8192
+Buffer6: 0
+
+# Power settings for FN Solar Gen Tier VI
+Tier7-power7: 10240
+Buffer7: 0
+
+# Power settings for FN Solar Gen Tier VI
+Tier8-power8: 12288
+Buffer8: 0

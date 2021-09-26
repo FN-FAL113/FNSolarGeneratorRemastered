@@ -1,0 +1,8 @@
+name: FN_FALSolarGenerators
+version: ${project.version}
+main: me.fnfal113.fn_falsolargenerators.FN_FALSolarGenerators
+api-version: 1.17
+authors: [ FN_FAL113 ]
+description: Custom Addon for Slimefun
+website: https://github.com/FN-FAL113
+depend: [Slimefun]
