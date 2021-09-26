@@ -1,6 +1,8 @@
 # FN_FAL-s-Solar-Generator-Remastered
 A custom Slimefun addon for Minecraft which adds 8 tiers of Solar Generators
+
 Addon is currently used on BarangayCraft Pinoy Server where I reside as an Admin
+
 Will add buffer to the generators once Solar Generator Capacity is implemented
 
 ### The addon as show in the Slimefun Guide
