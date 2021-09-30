@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.fnfal113</groupId>
     <artifactId>FNFALSolarGenerators</artifactId>
-    <version>1.0</version>
+    <version>v2.0-buffer</version>
     <packaging>jar</packaging>
 
     <name>FN_FALSolarGenerators</name>
@@ -79,9 +79,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.TheBusyBiscuit</groupId>
+            <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-27</version>
+            <version>e2d2ec6</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
