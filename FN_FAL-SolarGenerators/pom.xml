@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.fnfal113</groupId>
     <artifactId>FNFALSolarGenerators</artifactId>
-    <version>v2.0-buffer</version>
+    <version>v2.1</version>
     <packaging>jar</packaging>
 
     <name>FN_FALSolarGenerators</name>
@@ -90,6 +90,5 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
     </dependencies>
 </project>
