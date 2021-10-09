@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.fnfal113</groupId>
     <artifactId>FNFALSolarGenerators</artifactId>
-    <version>v2.1</version>
+    <version>v2.2-NightLore</version>
     <packaging>jar</packaging>
 
     <name>FN_FALSolarGenerators</name>

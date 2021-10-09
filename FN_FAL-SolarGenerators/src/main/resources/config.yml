@@ -1,35 +1,52 @@
 # Tick based power is multiplied by 2, The value here is in Seconds and will be converted in ticks in game. Ticks is slower than per seconds
 # Buffer is the actual capacity that the solar generator can store
-# This is a Custom Slimefun Addon by FN_FAL113 for BarangayCraft
+# This is a Custom Slimefun Addon by FN_FAL113
+# Change Lore if you intend to make the generator work at Night by changing the values of 'Tier#-power#-night:'
 
 # Power settings for FN Solar Gen Tier I
 Tier1-power1: 512
+Tier1-power1-night: 0
 Buffer1: 2048
+Tier1-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier III
 Tier2-power2: 1024
+Tier2-power2-night: 0
 Buffer2: 4096
+Tier2-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier III
 Tier3-power3: 2048
+Tier3-power3-night: 0
 Buffer3: 6144
+Tier3-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier IV
 Tier4-power4: 4096
+Tier4-power4-night: 0
 Buffer4: 12288
+Tier4-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier V
 Tier5-power5: 6144
+Tier5-power5-night: 0
 Buffer5: 24576
+Tier5-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier VI
 Tier6-power6: 8192
+Tier6-power6-night: 0
 Buffer6: 49152
+Tier6-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier VI
 Tier7-power7: 10240
+Tier7-power7-night: 0
 Buffer7: 98304
+Tier7-Lore: "&eGenerator works during Day only"
 
 # Power settings for FN Solar Gen Tier VI
 Tier8-power8: 12288
+Tier8-power8-night: 0
 Buffer8: 196608
+Tier8-Lore: "&eGenerator works during Day only"
